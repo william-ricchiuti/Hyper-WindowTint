@@ -25,12 +25,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/willytop8/Hyper-WindowTint.git"
+    "url": "git+https://github.com/william-ricchiuti/Hyper-WindowTint.git"
   },
   "bugs": {
-    "url": "https://github.com/willytop8/Hyper-WindowTint/issues"
+    "url": "https://github.com/william-ricchiuti/Hyper-WindowTint/issues"
   },
-  "homepage": "https://github.com/willytop8/Hyper-WindowTint#readme",
+  "homepage": "https://github.com/william-ricchiuti/Hyper-WindowTint#readme",
   "license": "MIT",
   "author": "William Ricchiuti",
   "engines": {
